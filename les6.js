@@ -1,4 +1,4 @@
-// Шаблонные строки.
+// ~~~ШАБЛОННЫЕ СТРОКИ~~~
 const brand = 'Toyota';
 const model = 'Camry';
 const color = 'grey';
